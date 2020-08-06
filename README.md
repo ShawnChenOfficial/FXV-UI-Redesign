@@ -17,4 +17,4 @@ This repository contains 2 types of files.
 2. UI folder contains a set of screenshots for re-design which was development by using Justinmind.
 
 #
-This design is owned by Shawn, and can be only used for Fitness X Velocity.
+This design is owned by Shawn Chen, and can be only used for Fitness X Velocity.
