@@ -1,6 +1,6 @@
 # FXV UI Redesign
 
-This is an extention of assignment of Human Computing Interaction interface project.
+This is an extension of assignment of Human Computing Interaction interface project.
 
 As this was a group project during my last of study at the Southern Institute of Technology, I was tasked with reviewing a Web application interface design, and redesigning based on the analysis of drawbacks of its current design.
 
