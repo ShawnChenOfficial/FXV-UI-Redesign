@@ -15,3 +15,6 @@ The subsequent design adjusted the focus of those aspects, and client were more 
 This repository contains 2 types of files.
 1. PDF documentation which explain the new design in detail.
 2. UI folder contains a set of screenshots for re-design which was development by using Justinmind.
+
+#
+This design is owned by Shawn, and can be only used for Fitness X Velocity.
